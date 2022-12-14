@@ -1,0 +1,114 @@
+---
+settings:
+  name: System Manager Classic
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  search: ontap
+  langs: es-es,us-en,ja-jp,ko-kr,zh-cn,zh-tw,de-de,fr-fr
+sidebar:
+  entries:
+  - title: Documentos clásicos de System Manager
+    url: "/index.html"
+  - title: Aprovisione el almacenamiento NAS
+    entries:
+    - section: nfs-config
+    - section: nfs-config-esxi
+    - section: nas-multiprotocol-config
+    - section: smb-config
+  - title: Aprovisionar el almacenamiento SAN
+    entries:
+    - section: fc-config-esxi
+    - section: fc-config-rhel
+    - section: fc-config-windows
+    - section: iscsi-config-esxi
+    - section: iscsi-config-rhel
+    - section: iscsi-config-windows
+  - title: Protección de datos y recuperación ante desastres
+    entries:
+    - section: peering
+    - section: volume-disaster-recovery
+    - section: volume-disaster-prep
+    - section: volume-backup-snapvault
+    - section: volume-restore-snapvault
+  - title: Administración de clústeres
+    entries:
+    - section: expansion
+    - section: volume-move
+    - section: snmp-config
+  - title: Gestión de clústeres mediante System Manager 9.6 y 9.7
+    entries:
+    - section: online-help-96-97
+  - title: Documentos de ONTAP
+    url: https://docs.netapp.com/us-en/ontap/
+  - title: Avisos legales
+    url: "/reference_legal_notices.html"
+homepage:
+  tiles:
+  - title: Manos a la obra
+    links:
+    - title: Descripción de System Manager Classic
+      url: "/online-help-96-97/index.html"
+    - title: Gestionar ONTAP con System Manager, la última generación para ONTAP 9.7
+        y versiones posteriores
+      url: https://docs.netapp.com/us-en/ontap/concept_administration_overview.html
+    - title: Gestione ONTAP con la interfaz de línea de comandos
+      url: https://docs.netapp.com/us-en/ontap/system-admin/index.html
+  - title: Aprovisione el almacenamiento NAS
+    links:
+    - title: Configuración de NFS
+      url: "/nfs-config/index.html"
+    - title: Configuración de NFS para ESXi mediante VSC
+      url: "/nfs-config-esxi/index.html"
+    - title: Configuración de múltiples protocolos de SMB y NFS
+      url: "/nas-multiprotocol-config/index.html"
+    - title: Configuración de SMB
+      url: "/smb-config/index.html"
+  - title: Aprovisionar el almacenamiento SAN
+    links:
+    - title: Configuración de FC para ESXi mediante VSC
+      url: "/fc-config-esxi/index.html"
+    - title: Configuración FC para Red Hat Enterprise Linux
+      url: "/fc-config-rhel/index.html"
+    - title: Configuración de FC para Windows
+      url: "/fc-config-windows/index.html"
+    - title: Configuración de iSCSI para ESXi mediante VSC
+      url: "/iscsi-config-esxi/index.html"
+    - title: Configuración iSCSI para Red Hat Enterprise Linux
+      url: "/iscsi-config-rhel/index.html"
+    - title: Configuración de iSCSI para Windows
+      url: "/iscsi-config-windows/index.html"
+  - title: Protección de datos y recuperación ante desastres
+    links:
+    - title: Configuración de relaciones entre iguales de clústeres y SVM
+      url: "/peering/index.html"
+    - title: Recuperación ante desastres de volúmenes
+      url: "/volume-disaster-recovery/index.html"
+    - title: Preparación para la recuperación ante desastres de volúmenes
+      url: "/volume-disaster-prep/index.html"
+    - title: SnapVault de backup de volúmenes
+      url: "/volume-backup-snapvault/index.html"
+    - title: Gestión de la restauración de volúmenes mediante SnapVault
+      url: "/volume-restore-snapvault/index.html"
+  - title: Administración de clústeres
+    links:
+    - title: Configuración de ampliación de clúster
+      url: "/expansion/index.html"
+    - title: Gestión de movimiento de volúmenes
+      url: "/volume-move/index.html"
+    - title: Configuración de SNMP
+      url: "/snmp-config/index.html"
+    - title: Gestión de clústeres mediante System Manager 9.6 y 9.7
+      url: "/online-help-96-97/index.html"
+  - title: Más recursos
+    links:
+    - title: Documentación de ONTAP 9
+      url: https://docs.netapp.com/us-en/ontap/
+    - title: Documentos sobre API de REST y automatización
+      url: https://docs.netapp.com/us-en/ontap-automation/index.html
+product-family:
+  name: ONTAP
+  repo: ontap-family
+  sidebar_label: Documentación de productos All ONTAP
