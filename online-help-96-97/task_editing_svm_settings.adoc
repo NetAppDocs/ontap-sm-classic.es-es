@@ -44,7 +44,7 @@ System Manager muestra el switch de servicio de nombres y el switch de asignaci�
 
 .Pasos
 . Haga clic en *almacenamiento* > *SVM*.
-. Seleccione la SVM y, a continuación, haga clic en *Configuración de SVM*.
+. Seleccione la SVM y, a continuación, haga clic en *Editar*.
 . En la ficha *Detalles*, modifique los protocolos de datos necesarios.
 . En la ficha *asignación de recursos* , elija uno de los siguientes métodos para delegar la creación de volúmenes:
 +

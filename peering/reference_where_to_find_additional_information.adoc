@@ -11,7 +11,9 @@ summary: Una vez que haya creado correctamente una relación de paridad de clús
 
 
 [role="lead"]
-Una vez que haya creado correctamente una relación de paridad de clústeres, estará listo para proteger la disponibilidad de los datos. Puede proteger sus datos mediante la siguiente información:
+Una vez que haya creado correctamente una relación de paridad de clústeres, estará listo para proteger la disponibilidad de los datos.
+
+Puede proteger sus datos mediante la siguiente información:
 
 * link:../volume-disaster-prep/index.html["Preparación para la recuperación ante desastres de volúmenes"]
 +

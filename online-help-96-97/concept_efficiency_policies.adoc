@@ -148,6 +148,13 @@ Actualiza la información de la ventana.
 
 === Lista de políticas de eficiencia
 
+* *Auto*
++
+Especifica que la deduplicación se ejecuta continuamente en segundo plano. Esta política se establece para todos los volúmenes nuevos y para todos los volúmenes actualizados que no se configuraron manualmente para la deduplicación en segundo plano. Si cambia la política a «default» o a otra política, la política «auto» queda desactivada.
+
++
+Si un volumen pasa de un sistema distinto de AFF a un sistema AFF, la política «'auto'» se habilita de forma predeterminada en el nodo de destino. Si un volumen pasa de un nodo AFF a uno distinto de AFF, la política «'auto'» del nodo de destino se reemplaza de forma predeterminada por la política «'solo en línea'».
+
 * *Política*
 +
 Especifica el nombre de una política de eficiencia.

@@ -7397,7 +7397,6 @@
   <block id="f20e536310ccfe92ed37a0b8bed05eeb" category="paragraph">Este procedimiento debe ejecutarse en ambos clústeres para los que desee crear una relación de paridad.</block>
   <block id="1d38d81d646985ec3458b8d11103d5e2" category="summary">Una vez que haya creado correctamente una relación de paridad de clústeres, estará listo para proteger la disponibilidad de los datos.</block>
   <block id="4bb047f8c530785002e490ef17fa725e" category="doc">Dónde encontrar información adicional</block>
-  <block id="16514528850809da669879bf9c0def51" category="paragraph">Una vez que haya creado correctamente una relación de paridad de clústeres, estará listo para proteger la disponibilidad de los datos. Puede proteger sus datos mediante la siguiente información:</block>
   <block id="a97f5cda69815f1e77668550fdaeedca" category="list-text"><block ref="a97f5cda69815f1e77668550fdaeedca" category="inline-link-macro-rx"></block></block>
   <block id="3552a03559c9745468390e65ff5420dd" category="paragraph">Describe cómo configurar y supervisar rápidamente las relaciones de SnapMirror entre volúmenes en diferentes clústeres.</block>
   <block id="4a4c3d33f3a7344913b2fc74439a7be1" category="paragraph">Describe cómo configurar rápidamente una relación SnapVault entre clústeres.</block>
@@ -9254,4 +9253,8 @@
   <block id="34b038e21199a9f0fc12b3f94eb4fdb0" category="sidebar">Configurar y verificar el acceso del cliente NFS (crear una SVM nueva habilitada para NFS)</block>
   <block id="c9400d1db93e0471869b3c666490fa71" category="sidebar">Abrir la política de exportación del volumen raíz de SVM (configurar el acceso de NFS a una SVM existente)</block>
   <block id="17e1c570ca599dbf87546393bebca4a8" category="sidebar">Configurar y verificar el acceso al cliente NFS (añadir un volumen NFS a una SVM habilitada para NFS)</block>
+  <block id="0832a9959e45466f30fb7d8ac340284b" category="list-text">Seleccione la SVM y, a continuación, haga clic en *Editar*.</block>
+  <block id="34a08238e292163c8a9e2bbdbca31b46" category="paragraph">Especifica que la deduplicación se ejecuta continuamente en segundo plano. Esta política se establece para todos los volúmenes nuevos y para todos los volúmenes actualizados que no se configuraron manualmente para la deduplicación en segundo plano. Si cambia la política a «default» o a otra política, la política «auto» queda desactivada.</block>
+  <block id="0edff1709e29131d53711deec4ab07ca" category="paragraph">Si un volumen pasa de un sistema distinto de AFF a un sistema AFF, la política «'auto'» se habilita de forma predeterminada en el nodo de destino. Si un volumen pasa de un nodo AFF a uno distinto de AFF, la política «'auto'» del nodo de destino se reemplaza de forma predeterminada por la política «'solo en línea'».</block>
+  <block id="52d62f4cf5db67fc9fd3bfd390035923" category="paragraph">Puede proteger sus datos mediante la siguiente información:</block>
 </blocks>
