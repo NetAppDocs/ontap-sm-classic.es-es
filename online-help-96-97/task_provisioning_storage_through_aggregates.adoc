@@ -315,4 +315,4 @@ Los discos compartidos admiten dos tipos de RAID: RAID-DP y RAID-TEC.
 
 *Información relacionada*
 
-http://www.netapp.com/us/media/tr-4070.pdf["Informe técnico de NetApp 4070: Diseño e implementación de Flash Pool"^]
+http://["Informe técnico de NetApp 4070: Diseño e implementación de Flash Pool"^]

@@ -22,4 +22,4 @@ El montaje de un almacén de datos da acceso de host al almacenamiento. Cuando l
 
 *Información relacionada*
 
-https://docs.netapp.com/vapp-96/topic/com.netapp.doc.vsc-iag/home.html["Administración de Virtual Storage Console, proveedor VASA y Storage Replication Adapter para VMware vSphere para la versión 9.6"]
+https://["Administración de Virtual Storage Console, proveedor VASA y Storage Replication Adapter para VMware vSphere para la versión 9.6"]

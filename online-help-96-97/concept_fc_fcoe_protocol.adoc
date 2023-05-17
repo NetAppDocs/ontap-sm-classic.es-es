@@ -93,4 +93,4 @@ En el área de detalles se muestra información sobre el estado del servicio FC/
 
 xref:task_configuring_fc_fcoe_protocol_on_svms.adoc[Configurar el protocolo FC y el protocolo FCoE en SVM]
 
-https://docs.netapp.com/us-en/ontap/san-admin/index.html["Administración de SAN"^]
+https://["Administración de SAN"^]

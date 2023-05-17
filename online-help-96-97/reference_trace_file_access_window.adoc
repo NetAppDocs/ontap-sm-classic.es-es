@@ -108,6 +108,6 @@ Cuando el resultado de la traza muestra un mensaje que indica que no se concede 
 
 *Información relacionada*
 
-https://docs.netapp.com/us-en/ontap/smb-admin/index.html["Gestión de SMB/CIFS"]
+https://["Gestión de SMB/CIFS"]
 
 xref:../nas-multiprotocol-config/index.html[Configuración de varios protocolos de SMB/CIFS y NFS]

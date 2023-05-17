@@ -21,6 +21,6 @@ Cuando la reserva de espacio se establece en "predeterminado", la configuración
 
 *Información relacionada*
 
-http://www.netapp.com/us/media/tr-3563.pdf["Informe técnico de NetApp 3563: Thin Provisioning de NetApp aumenta el uso de almacenamiento con la asignación bajo demanda"^]
+http://["Informe técnico de NetApp 3563: Thin Provisioning de NetApp aumenta el uso de almacenamiento con la asignación bajo demanda"^]
 
-http://www.netapp.com/us/media/tr-3483.pdf["Informe técnico de NetApp 3483: Thin Provisioning en un entorno empresarial SAN o SAN IP DE NetApp"^]
+http://["Informe técnico de NetApp 3483: Thin Provisioning en un entorno empresarial SAN o SAN IP DE NetApp"^]

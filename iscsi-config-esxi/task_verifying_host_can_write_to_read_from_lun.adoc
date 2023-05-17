@@ -39,4 +39,4 @@ Si alguna de las pruebas presenta errores, compruebe que el servicio iSCSI se es
 
 *Información relacionada*
 
-https://docs.netapp.com/us-en/ontap/high-availability/index.html["Gestión de alta disponibilidad"^]
+https://["Gestión de alta disponibilidad"^]

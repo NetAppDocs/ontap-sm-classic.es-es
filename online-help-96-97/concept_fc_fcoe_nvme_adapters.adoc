@@ -29,4 +29,4 @@ Puede modificar la configuración de velocidad de los adaptadores de FC/FCoE y N
 
 xref:reference_network_window.adoc[Ventana de red]
 
-https://docs.netapp.com/us-en/ontap/networking/index.html["Gestión de redes"]
+https://["Gestión de redes"]

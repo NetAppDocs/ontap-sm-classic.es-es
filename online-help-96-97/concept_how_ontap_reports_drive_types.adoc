@@ -126,6 +126,6 @@ Dispositivo de almacenamiento lógico respaldado por cabinas de almacenamiento y
 |===
 *Información relacionada*
 
-https://hwu.netapp.com["Hardware Universe de NetApp"^]
+https://["Hardware Universe de NetApp"^]
 
-http://www.netapp.com/us/media/tr-3437.pdf["Informe técnico de NetApp 3437: Resiliencia del subsistema de almacenamiento"^]
+http://["Informe técnico de NetApp 3437: Resiliencia del subsistema de almacenamiento"^]

@@ -20,7 +20,7 @@ Los puertos de host y los puertos de clúster de almacenamiento utilizados para 
 
 En esta tarea, se enumeran los pasos de alto nivel para configurar el host ESXi. Si necesita instrucciones más detalladas, consulte la publicación de VMware _Storage_ correspondiente a su versión de ESXi.
 
-http://www.vmware.com["VMware"]
+http://["VMware"]
 
 .Pasos
 . Inicie sesión en vSphere Client y, a continuación, seleccione el host ESXi en el panel Inventory.

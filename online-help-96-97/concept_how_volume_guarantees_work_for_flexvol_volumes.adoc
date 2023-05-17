@@ -40,4 +40,4 @@ Las garantías solo se honran con volúmenes en línea. Si desconecta un volumen
 
 *Información relacionada*
 
-http://www.netapp.com/us/media/tr-3965.pdf["Informe técnico de NetApp 3965: Implementación de thin provisioning de NetApp Data ONTAP 8.1 (7-Mode)"^]
+http://["Informe técnico de NetApp 3965: Implementación de thin provisioning de NetApp Data ONTAP 8.1 (7-Mode)"^]

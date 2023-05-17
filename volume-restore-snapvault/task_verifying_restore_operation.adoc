@@ -26,7 +26,7 @@ Debe realizar esta tarea desde el clúster *fuente*.
 Debe solucionar cualquier problema en las relaciones de SnapVault. Los procedimientos de solución de problemas para las relaciones de SnapMirror también se aplican a las relaciones de SnapVault.
 
 +
-http://www.netapp.com/us/media/tr-4015.pdf["Informe técnico de NetApp 4015: Configuración de SnapMirror y mejores prácticas para ONTAP 9.1, 9.2"^]
+http://["Informe técnico de NetApp 4015: Configuración de SnapMirror y mejores prácticas para ONTAP 9.1, 9.2"^]
 
 
 

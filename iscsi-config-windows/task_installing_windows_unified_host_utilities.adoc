@@ -18,11 +18,11 @@ Debe haber completado las siguientes tareas:
 
 * Compruebe la configuración compatible en la matriz de interoperabilidad
 +
-https://mysupport.netapp.com/matrix["Herramienta de matriz de interoperabilidad de NetApp"]
+https://["Herramienta de matriz de interoperabilidad de NetApp"]
 
 * Se identificaron las correcciones urgentes de Windows necesarias de la matriz de interoperabilidad
 +
-https://mysupport.netapp.com/matrix["Herramienta de matriz de interoperabilidad de NetApp"]
+https://["Herramienta de matriz de interoperabilidad de NetApp"]
 
 * Añada la licencia FCP e inicie el servicio de destino
 * Compruebe el cableado
@@ -46,7 +46,7 @@ Consulte link:https://docs.netapp.com/us-en/ontap-sanhost/hu_wuhu_71.html["Insta
 .Pasos
 . Descargue la versión adecuada de las utilidades unificadas de host de Windows en el sitio de soporte de NetApp.
 +
-https://mysupport.netapp.com/site/global/dashboard["Soporte de NetApp"]
+https://["Soporte de NetApp"]
 
 . Ejecute el archivo ejecutable y siga las instrucciones que aparecen en pantalla.
 . Reinicie el host de Windows cuando se le solicite.

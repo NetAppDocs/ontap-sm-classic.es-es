@@ -18,7 +18,7 @@ Antes de expandir un clúster, debe verificar que todos los componentes del clú
 +
 ** Si no tiene Config Advisor en su portátil, descárguelo.
 +
-https://mysupport.netapp.com/site/tools/tool-eula/activeiq-configadvisor["Descargas de NetApp: Config Advisor"]
+https://["Descargas de NetApp: Config Advisor"]
 
 ** Si tiene Config Advisor, inícielo, haga clic en *Ayuda* > *Buscar actualizaciones* y siga las indicaciones para actualizarla si es necesario.
 +

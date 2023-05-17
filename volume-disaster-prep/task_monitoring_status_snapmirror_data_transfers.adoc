@@ -41,7 +41,7 @@ Por ejemplo, si la programación de transferencia es por hora, el tiempo de demo
 Debe solucionar cualquier problema en las relaciones de SnapMirror.
 
 +
-http://www.netapp.com/us/media/tr-4015.pdf["Informe técnico de NetApp 4015: Configuración de SnapMirror y mejores prácticas para ONTAP 9.1, 9.2"^]
+http://["Informe técnico de NetApp 4015: Configuración de SnapMirror y mejores prácticas para ONTAP 9.1, 9.2"^]
 
 +
 image::../media/snapmirror_monitor_3_health_state_lag.gif[desfase de estado de snapmirror 3]

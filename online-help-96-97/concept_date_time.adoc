@@ -45,4 +45,4 @@ xref:task_setting_time_zone_for_cluster.adoc[Configurar la zona horaria de un cl
 
 xref:task_setting_up_network_when_ip_address_range_is_disabled.adoc[Configuración de una red cuando se deshabilita un rango de direcciones IP]
 
-https://docs.netapp.com/us-en/ontap/system-admin/index.html["Administración del sistema"]
+https://["Administración del sistema"]

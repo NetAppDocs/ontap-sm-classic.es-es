@@ -15,4 +15,4 @@ Puede usar System Manager para crear agregados a fin de respaldar los distintos 
 
 *Información relacionada*
 
-https://docs.netapp.com/us-en/ontap/disks-aggregates/index.html["Gestión de discos y agregados"]
+https://["Gestión de discos y agregados"]

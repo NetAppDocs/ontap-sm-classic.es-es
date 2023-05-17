@@ -42,4 +42,4 @@ Los administradores de SVM pueden supervisar trabajos, conexión de red, interfa
 
 *Información relacionada*
 
-https://docs.netapp.com/ontap-9/index.jsp["Centro de documentación de ONTAP 9"]
+https://["Centro de documentación de ONTAP 9"]

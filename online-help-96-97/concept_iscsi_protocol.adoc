@@ -192,4 +192,4 @@ En el área de detalles, se muestra información sobre el estado del servicio iS
 
 *Información relacionada*
 
-https://docs.netapp.com/us-en/ontap/san-admin/index.html["Administración de SAN"^]
+https://["Administración de SAN"^]

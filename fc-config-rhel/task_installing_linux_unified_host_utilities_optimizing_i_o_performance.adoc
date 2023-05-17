@@ -19,13 +19,13 @@ Debe haber identificado la versión compatible de Linux Unified Host Utilities p
 .Pasos
 . Descargue la versión compatible de Linux Unified Host Utilities desde el sitio de soporte de NetApp.
 +
-http://mysupport.netapp.com/NOW/cgi-bin/software["Descargas de NetApp: Software"]
+http://["Descargas de NetApp: Software"]
 
 . Instale el software Linux Unified Host Utilities siguiendo las instrucciones que se describen en la documentación de instalación.
 . Si la `tuned` el paquete no está instalado, introduzca el siguiente comando:``yum install tuned``
 . Para un host físico, asegúrese de haber configurado el `enterprise-storage` perfil: `tuned-adm profile enterprise-storage`
 . Para un host virtual, asegúrese de haber configurado el `virtual-guest` perfil: `tuned-adm profile virtual-guest`
 +
-https://library.netapp.com/ecm/ecm_download_file/ECMLP2547936["Instalación de Linux Unified Host Utilities 7.1"]
+https://["Instalación de Linux Unified Host Utilities 7.1"]
 
 

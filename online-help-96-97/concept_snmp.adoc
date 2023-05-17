@@ -152,4 +152,4 @@ Muestra el estilo de seguridad del servidor SNMP.
 
 *Información relacionada*
 
-https://docs.netapp.com/us-en/ontap/networking/index.html["Gestión de redes"]
+https://["Gestión de redes"]

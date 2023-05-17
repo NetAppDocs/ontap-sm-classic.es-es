@@ -43,4 +43,4 @@ Las siguientes aplicaciones se pueden configurar en System Manager:
 
 *Información relacionada*
 
-https://docs.netapp.com/us-en/ontap/concepts/index.html["Conceptos de ONTAP"]
+https://["Conceptos de ONTAP"]

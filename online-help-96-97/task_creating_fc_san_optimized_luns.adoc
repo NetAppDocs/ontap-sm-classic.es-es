@@ -17,7 +17,7 @@ Puede usar el clásico de System Manager de ONTAP (disponible en ONTAP 9.7 y ver
 * Debe asegurarse de que solo se haya creado una máquina virtual de almacenamiento (SVM) con el nombre AFF_SAN_DEFAULT_SVM y de que esta SVM no contenga ningún LUN.
 * Debe haber verificado que la configuración del hardware se ha completado correctamente.
 +
-https://docs.netapp.com/ontap-9/index.jsp["Centro de documentación de ONTAP 9"]
+https://["Centro de documentación de ONTAP 9"]
 
 
 
@@ -98,4 +98,4 @@ Se muestra una tabla de resumen con las LUN creadas.
 
 *Información relacionada*
 
-https://docs.netapp.com/ontap-9/index.jsp["Centro de documentación de ONTAP 9"]
+https://["Centro de documentación de ONTAP 9"]

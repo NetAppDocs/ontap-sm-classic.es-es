@@ -46,4 +46,4 @@ Si se realizaron cambios en la SVM que contiene el volumen de origen, se deben r
 
 *Información relacionada*
 
-https://docs.netapp.com/ontap-9/index.jsp["Centro de documentación de ONTAP 9"]
+https://["Centro de documentación de ONTAP 9"]

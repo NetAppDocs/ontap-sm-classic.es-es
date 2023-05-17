@@ -19,7 +19,7 @@ IPv6 debe estar habilitado en el clúster si configura los hosts de capturas de 
 .Acerca de esta tarea
 SNMP y las capturas de SNMP se habilitan de forma predeterminada. El informe técnico TR-4220 de NetApp para compatibilidad con SNMP contiene listas de todos los eventos predeterminados que se admiten con las capturas SNMP.
 
-http://www.netapp.com/us/media/tr-4220.pdf["Informe técnico de NetApp 4220: Soporte de SNMP en Data ONTAP"^]
+http://["Informe técnico de NetApp 4220: Soporte de SNMP en Data ONTAP"^]
 
 .Pasos
 . En la ventana SNMP, haga clic en *EDITAR* para abrir el cuadro de diálogo *Editar configuración SNMP*.

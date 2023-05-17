@@ -47,4 +47,4 @@ Debe resolver el problema que provocó que el volumen de origen no esté disponi
 
 *Información relacionada*
 
-https://docs.netapp.com/ontap-9/index.jsp["Centro de documentación de ONTAP 9"]
+https://["Centro de documentación de ONTAP 9"]

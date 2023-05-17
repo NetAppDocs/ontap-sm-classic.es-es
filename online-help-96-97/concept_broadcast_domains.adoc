@@ -61,4 +61,4 @@ En su lugar, debe usar la interfaz de línea de comandos (CLI).
 
 xref:reference_network_window.adoc[Ventana de red]
 
-https://docs.netapp.com/us-en/ontap/networking/index.html["Gestión de redes"]
+https://["Gestión de redes"]

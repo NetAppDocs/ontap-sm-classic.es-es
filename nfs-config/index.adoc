@@ -19,7 +19,7 @@ Utilice este procedimiento si desea configurar el acceso a un volumen de la sigu
 * Quiere utilizar las prácticas recomendadas, no explorar todas las opciones disponibles.
 * La red de datos utiliza el espacio IP predeterminado, el dominio de retransmisión predeterminado y el grupo de conmutación por error predeterminado.
 +
-Si la red de datos es fija, el uso de estos objetos predeterminados garantiza que las LIF se conmutarán al nodo de respaldo en caso de que falle el enlace. Si no está utilizando los objetos predeterminados, debe hacer referencia a https://docs.netapp.com/us-en/ontap/networking/index.html["Documentación de gestión de redes"^] Para obtener información sobre cómo configurar la conmutación al nodo de respaldo de la ruta de LIF.
+Si la red de datos es fija, el uso de estos objetos predeterminados garantiza que las LIF se conmutarán al nodo de respaldo en caso de que falle el enlace. Si no está utilizando los objetos predeterminados, debe hacer referencia a https://["Documentación de gestión de redes"^] Para obtener información sobre cómo configurar la conmutación al nodo de respaldo de la ruta de LIF.
 
 * Se utilizarán permisos de archivos UNIX para proteger el nuevo volumen.
 * Active Directory proporciona el LDAP, si se utiliza.

@@ -27,9 +27,9 @@ Estos procedimientos se basan en las siguientes suposiciones:
 * No está configurando el arranque SAN iSCSI.
 
 
-Para obtener más información acerca de cómo configurar el host específico con ONTAP, consulte https://docs.netapp.com/us-en/ontap-sanhost/index.html["Configuración de host SAN ONTAP"].
+Para obtener más información acerca de cómo configurar el host específico con ONTAP, consulte https://["Configuración de host SAN ONTAP"].
 
-Si quiere más información sobre la administración DE SAN, consulte https://docs.netapp.com/us-en/ontap/san-admin/index.html["Descripción general de la administración DE SAN de ONTAP 9"]
+Si quiere más información sobre la administración DE SAN, consulte https://["Descripción general de la administración DE SAN de ONTAP 9"]
 
 
 
@@ -41,8 +41,8 @@ Si quiere más información sobre la administración DE SAN, consulte https://do
 | Para completar esta tarea mediante... | Consulte... 
 
 
-| System Manager de nuevo diseño (disponible con la versión 9.7 y posterior) | https://docs.netapp.com/us-en/ontap/task_san_provision_windows.html["Aprovisionar almacenamiento SAN para servidores de Windows"] 
+| System Manager de nuevo diseño (disponible con la versión 9.7 y posterior) | https://["Aprovisionar almacenamiento SAN para servidores de Windows"] 
 
 
-| La interfaz de línea de comandos (CLI) de ONTAP | https://docs.netapp.com/us-en/ontap/san-admin/lun-setup-workflow-concept.html["Flujo de trabajo de configuración de LUN con la CLI"] 
+| La interfaz de línea de comandos (CLI) de ONTAP | https://["Flujo de trabajo de configuración de LUN con la CLI"] 
 |===
