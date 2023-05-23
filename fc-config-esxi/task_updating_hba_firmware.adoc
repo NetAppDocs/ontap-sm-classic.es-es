@@ -14,7 +14,7 @@ summary: Si los adaptadores de bus de host de FC del host ESX no ejecutan versio
 Si los adaptadores de bus de host (HBA) de FC del host ESX no ejecutan versiones de controlador, firmware y BIOS compatibles, debe actualizarlos.
 
 .Antes de empezar
-Debe haber identificado las versiones de controlador, firmware y BIOS compatibles con la configuración desde https://["Herramienta de matriz de interoperabilidad de NetApp"].
+Debe haber identificado las versiones de controlador, firmware y BIOS compatibles con la configuración desde https://mysupport.netapp.com/matrix["Herramienta de matriz de interoperabilidad de NetApp"].
 
 .Acerca de esta tarea
 Los proveedores de HBA proporcionan controladores, firmware, BIOS y utilidades HBA.
@@ -29,4 +29,4 @@ Las instrucciones de instalación y las utilidades de instalación necesarias es
 
 *Información relacionada*
 
-http://["Artículo de la base de conocimientos de VMware 1002413: Identificación del firmware de un HBA FC de Emulex o Qlogic"]
+http://kb.vmware.com/kb/1002413["Artículo de la base de conocimientos de VMware 1002413: Identificación del firmware de un HBA FC de Emulex o Qlogic"]

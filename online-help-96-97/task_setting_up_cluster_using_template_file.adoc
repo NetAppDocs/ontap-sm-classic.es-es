@@ -103,4 +103,4 @@ Puede modificar los detalles de la SVM si es necesario.
 
 *Información relacionada*
 
-https://["Plantillas de configuración guiadas por clústeres de System Manager"]
+https://kb.netapp.com/Advice_and_Troubleshooting/Data_Storage_Software/ONTAP_OS/System_Manager_Cluster_Guided_Setup_Templates["Plantillas de configuración guiadas por clústeres de System Manager"]

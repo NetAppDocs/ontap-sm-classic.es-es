@@ -22,6 +22,6 @@ La pestaña Volumes se muestra solo si habilitó las licencias CIFS y NFS.
 ====
 *Información relacionada*
 
-https://["Conceptos de ONTAP"^]
+https://docs.netapp.com/us-en/ontap/concepts/index.html["Conceptos de ONTAP"^]
 
-https://["Gestión de almacenamiento lógico"^]
+https://docs.netapp.com/us-en/ontap/volumes/index.html["Gestión de almacenamiento lógico"^]

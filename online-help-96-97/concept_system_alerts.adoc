@@ -214,4 +214,4 @@ El área de detalles muestra información detallada sobre la alerta, como la hor
 
 *Información relacionada*
 
-https://["Administración del sistema"]
+https://docs.netapp.com/us-en/ontap/system-admin/index.html["Administración del sistema"]

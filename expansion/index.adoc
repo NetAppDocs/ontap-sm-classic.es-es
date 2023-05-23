@@ -26,7 +26,7 @@ Si bien los ejemplos de este procedimiento utilizan un clúster de dos nodos, ta
 Si desea añadir un nodo a un clúster de un solo nodo, debe seguir un procedimiento diferente.
 
 +
-https://["Al agregar una segunda controladora para crear un par de alta disponibilidad"]
+https://docs.netapp.com/platstor/topic/com.netapp.doc.hw-controller-add/home.html["Al agregar una segunda controladora para crear un par de alta disponibilidad"]
 
 ** No utiliza direccionamiento IPv6 ni cifrado de almacenamiento.
 ** No es una configuración MetroCluster.
@@ -41,7 +41,7 @@ https://["Al agregar una segunda controladora para crear un par de alta disponib
 
 * Al completar las tareas de configuración de ONTAP con System Manager, desea utilizar la interfaz de usuario de _Classic_ System Manager para ONTAP 9.7 y versiones anteriores, no la interfaz de usuario de ONTAP System Manager para ONTAP 9.7 y versiones posteriores.
 +
-https://["Documentación de ONTAP System Manager"]
+https://docs.netapp.com/us-en/ontap/["Documentación de ONTAP System Manager"]
 
 * Quiere utilizar las prácticas recomendadas, no explorar todas las opciones disponibles.
 * No desea leer muchos antecedentes conceptuales.

@@ -19,13 +19,13 @@ Si desea que la máquina virtual de almacenamiento (SVM) obtenga información de
 Si utiliza otro tipo de LDAP, debe utilizar la interfaz de línea de comandos (CLI) y otra documentación para configurar LDAP.
 
 +
-https://["Informe técnico de NetApp 4067: NFS en ONTAP de NetApp"^]
+https://www.netapp.com/pdf.html?item=/media/10720-tr-4067.pdf["Informe técnico de NetApp 4067: NFS en ONTAP de NetApp"^]
 
 +
-https://["Informe técnico de NetApp 4616: Kerberos de NFS en ONTAP con Microsoft Active Directory"^]
+https://www.netapp.com/pdf.html?item=/media/19384-tr-4616.pdf["Informe técnico de NetApp 4616: Kerberos de NFS en ONTAP con Microsoft Active Directory"^]
 
 +
-https://["Informe técnico de NetApp 4835: Cómo configurar LDAP en ONTAP"^]
+https://www.netapp.com/pdf.html?item=/media/19423-tr-4835.pdf["Informe técnico de NetApp 4835: Cómo configurar LDAP en ONTAP"^]
 
 * Debe conocer el dominio y los servidores de AD, así como la siguiente información de vinculación: El nivel de autenticación, el usuario y la contraseña de Bind, el DN base y el puerto LDAP.
 

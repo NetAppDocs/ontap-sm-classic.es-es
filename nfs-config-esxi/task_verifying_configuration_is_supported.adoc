@@ -16,7 +16,7 @@ Para un funcionamiento fiable, debe comprobar que toda la configuración es comp
 .Pasos
 . Vaya a para verificar que tiene una combinación compatible de los siguientes componentes:
 +
-https://["Herramienta de matriz de interoperabilidad de NetApp"]
+https://mysupport.netapp.com/matrix["Herramienta de matriz de interoperabilidad de NetApp"]
 
 +
 ** Software ONTAP

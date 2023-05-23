@@ -181,4 +181,4 @@ El área debajo de la lista de LUN de cabina muestra información detallada sobr
 
 *Información relacionada*
 
-https://["Referencias y requisitos de instalación de la virtualización FlexArray"]
+https://docs.netapp.com/ontap-9/topic/com.netapp.doc.vs-irrg/home.html["Referencias y requisitos de instalación de la virtualización FlexArray"]

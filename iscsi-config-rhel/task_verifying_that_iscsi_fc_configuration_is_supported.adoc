@@ -14,7 +14,7 @@ summary: Para lograr un funcionamiento fiable, es necesario verificar que toda l
 Para lograr un funcionamiento fiable, es necesario verificar que toda la configuración de iSCSI sea compatible.
 
 .Pasos
-. Vaya a la https://["Herramienta de matriz de interoperabilidad de NetApp"] para verificar que tiene una combinación compatible de los siguientes componentes:
+. Vaya a la https://mysupport.netapp.com/matrix["Herramienta de matriz de interoperabilidad de NetApp"] para verificar que tiene una combinación compatible de los siguientes componentes:
 +
 ** Software ONTAP
 ** Arquitectura de CPU de ordenador host (para servidores de bastidor estándar)

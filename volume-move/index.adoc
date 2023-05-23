@@ -53,14 +53,14 @@ La transferencia de volúmenes no es compatible con configuraciones de NVMe que 
  a| 
 System Manager rediseñado (disponible con ONTAP 9.7 y versiones posteriores)
  a| 
-https://["Gestione los volúmenes"^]
+https://docs.netapp.com/us-en/ontap/volumes/manage-volumes-task.html["Gestione los volúmenes"^]
 
 
 
  a| 
 La interfaz de línea de comandos de ONTAP
  a| 
-https://["Gestión de almacenamiento lógico"^]
+https://docs.netapp.com/us-en/ontap/volumes/index.html["Gestión de almacenamiento lógico"^]
 
 |===
 
@@ -71,10 +71,10 @@ Antes de mover volúmenes, debe evaluar si los siguientes enfoques se ajustan me
 
 * Si desea actualizar una controladora in situ de forma no disruptiva, puede considerar utilizar la reubicación de agregados (ARL), que no requiere el movimiento de datos físicos.
 +
-https://["Alta disponibilidad"^]
+https://docs.netapp.com/us-en/ontap/high-availability/index.html["Alta disponibilidad"^]
 
 * Si desea mover solo una LUN sin su volumen que lo contenga, puede utilizar el proceso de movimiento de LUN.
 +
-https://["Administración de SAN"^]
+https://docs.netapp.com/us-en/ontap/san-admin/index.html["Administración de SAN"^]
 
 

@@ -22,7 +22,7 @@ Puede usar la ventana Licenses en System Manager para eliminar las licencias de 
 Para obtener información sobre la gestión de licencias mediante ONTAP 9.8 y versiones posteriores, consulte la siguiente información:
 
 * link:https://docs.netapp.com/us-en/ontap/system-admin/manage-licenses-concept.html["Información general sobre gestionar licencias (solo administradores de clúster)"^]
-* https://["Habilite nuevas funciones añadiendo claves de licencia"^]
+* https://docs.netapp.com/us-en/ontap/task_admin_enable_new_features.html["Habilite nuevas funciones añadiendo claves de licencia"^]
 
 
 .Antes de empezar
@@ -263,6 +263,6 @@ Muestra la fecha de caducidad del paquete de licencia de software.
 
 *Información relacionada*
 
-https://["Administración del sistema"]
+https://docs.netapp.com/us-en/ontap/system-admin/index.html["Administración del sistema"]
 
 xref:task_creating_cluster.adoc[Crear un clúster]

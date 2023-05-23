@@ -23,7 +23,7 @@ A partir de ONTAP 9.0, el modo de alta disponibilidad está habilitado de forma 
 . Obtenga el _instrucciones de instalación y configuración_ para el número de modelo FAS del módulo de la controladora que va a añadir al clúster.
 +
 ** Para un nuevo módulo de controlador, el documento está disponible en la caja.
-** Para un módulo controlador rediseñado, puede descargar el documento.https://["Documentación de NetApp"]
+** Para un módulo controlador rediseñado, puede descargar el documento.https://mysupport.netapp.com/site/docs-and-kb["Documentación de NetApp"]
 
 
 . Siga la sección _prepare for installation_ con las siguientes excepciones:

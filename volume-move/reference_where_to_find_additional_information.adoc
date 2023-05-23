@@ -14,4 +14,4 @@ summary: Si desea obtener más información sobre la administración de ONTAP, p
 Si desea obtener más información sobre la administración de ONTAP, puede consultar la biblioteca de productos de ONTAP 9.
 
 .Información relacionada
-https://["Centro de documentación de ONTAP 9"]
+https://docs.netapp.com/ontap-9/index.jsp["Centro de documentación de ONTAP 9"]

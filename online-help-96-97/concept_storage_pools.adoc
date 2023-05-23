@@ -285,4 +285,4 @@ xref:task_provisioning_storage_by_creating_flash_pool_aggregate_manually.adoc[Ap
 
 xref:task_provisioning_cache_by_adding_disks.adoc[Aprovisionamiento de caché mediante la adición de SSD]
 
-https://["Gestión de discos y agregados"]
+https://docs.netapp.com/us-en/ontap/disks-aggregates/index.html["Gestión de discos y agregados"]

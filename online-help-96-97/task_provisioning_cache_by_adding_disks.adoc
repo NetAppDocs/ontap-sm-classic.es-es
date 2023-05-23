@@ -133,6 +133,6 @@ Los discos de caché se añadirán al agregado de Flash Pool seleccionado.
 
 *Información relacionada*
 
-http://["Informe técnico de NetApp 4070: Diseño e implementación de Flash Pool"^]
+http://www.netapp.com/us/media/tr-4070.pdf["Informe técnico de NetApp 4070: Diseño e implementación de Flash Pool"^]
 
 xref:concept_how_storage_pool_works.adoc[Cómo funciona el pool de almacenamiento]

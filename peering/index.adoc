@@ -36,7 +36,7 @@ System Manager de ONTAP en ONTAP 9.3 simplifica la forma en la que se configuran
  a| 
 System Manager rediseñado (disponible con ONTAP 9.7 y versiones posteriores)
  a| 
-* https://["Gestión de clústeres con System Manager"^]
+* https://docs.netapp.com/us-en/ontap/concept_administration_overview.html["Gestión de clústeres con System Manager"^]
 
 
 
@@ -44,11 +44,11 @@ System Manager rediseñado (disponible con ONTAP 9.7 y versiones posteriores)
  a| 
 La interfaz de línea de comandos (CLI) de ONTAP
  a| 
-* https://["Información general sobre relaciones entre iguales de clústeres y SVM con la CLI"^]
+* https://docs.netapp.com/us-en/ontap/peering/index.html["Información general sobre relaciones entre iguales de clústeres y SVM con la CLI"^]
 +
 Use la interfaz de línea de comandos para configurar las relaciones de paridad de clústeres y las relaciones de paridad de SVM.
 
-* https://["Gestión de redes"^]
+* https://docs.netapp.com/us-en/ontap/networking/index.html["Gestión de redes"^]
 +
 Utilice la interfaz de línea de comandos para configurar subredes, LIF de interconexión de clústeres, rutas, políticas de firewall y otros componentes de red
 

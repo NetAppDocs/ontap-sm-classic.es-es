@@ -23,7 +23,7 @@ Debe tener credenciales de administrador en la instancia de vCenter Server que s
 .Pasos
 . Descargue la versión de que se admite para la configuración, como se muestra en la herramienta matriz de interoperabilidad.
 +
-https://["Soporte de NetApp"]
+https://mysupport.netapp.com/site/global/dashboard["Soporte de NetApp"]
 
 . Implemente el dispositivo virtual y configúrelo siguiendo los pasos de _Deployment and Setup Guide_.
 

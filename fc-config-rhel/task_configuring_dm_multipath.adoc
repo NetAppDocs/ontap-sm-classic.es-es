@@ -16,7 +16,7 @@ DM-Multipath gestiona varias rutas entre el host Linux y el clúster de almacena
 .Antes de empezar
 Debe haber identificado la versión necesaria de DM-Multipath desde la herramienta de matriz de interoperabilidad.
 
-https://["Herramienta de matriz de interoperabilidad de NetApp"]
+https://mysupport.netapp.com/matrix["Herramienta de matriz de interoperabilidad de NetApp"]
 
 [NOTE]
 ====

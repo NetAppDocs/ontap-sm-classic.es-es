@@ -15,4 +15,4 @@ Puede usar System Manager para crear y gestionar grupos de Windows y cuentas de 
 
 *Información relacionada*
 
-https://["Gestión de SMB/CIFS"]
+https://docs.netapp.com/us-en/ontap/smb-admin/index.html["Gestión de SMB/CIFS"]

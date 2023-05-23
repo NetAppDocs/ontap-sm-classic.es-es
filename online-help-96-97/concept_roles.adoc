@@ -96,4 +96,4 @@ El área de detalles muestra los atributos de función, como el comando o el dir
 
 *Información relacionada*
 
-https://["Autenticación de administrador y RBAC"^]
+https://docs.netapp.com/us-en/ontap/authentication/index.html["Autenticación de administrador y RBAC"^]

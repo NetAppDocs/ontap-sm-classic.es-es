@@ -22,11 +22,11 @@ Debe tener dos conjuntos de credenciales: El nombre de usuario y la contraseña 
 .. Compruebe que la plataforma de las nuevas controladoras puede combinarse con las controladoras existentes del clúster.
 .. Compruebe que el clúster ampliado no supera los límites del sistema para las plataformas.
 +
-https://["Hardware Universe de NetApp"^]
+https://hwu.netapp.com["Hardware Universe de NetApp"^]
 
 .. Si su clúster está configurado para SAN, compruebe que el clúster ampliado no supere los límites de configuración para FC, FCoE e iSCSI.
 +
-https://["Configuración de SAN"^]
+https://docs.netapp.com/us-en/ontap/san-config/index.html["Configuración de SAN"^]
 
 
 
@@ -53,7 +53,7 @@ CIFS              license CIFS License          -
 .. Revise el resultado para identificar las licencias de bloqueo de nodo (identificadas por el tipo) `license`) que será necesario para los nodos adicionales.
 .. Asegúrese de que las licencias incluidas con los nodos adicionales sean coherentes con las licencias existentes de bloqueo de nodo del clúster.
 +
-http://["Búsqueda de licencias de software de NetApp"^]
+http://mysupport.netapp.com/licenses["Búsqueda de licencias de software de NetApp"^]
 
 
 
@@ -62,14 +62,14 @@ Si no tiene las licencias necesarias para los nodos adicionales, debe adquirir l
 
 . Verifique que la planta esté lista para todos los equipos nuevos.
 +
-https://["Hardware Universe de NetApp"^]
+https://hwu.netapp.com["Hardware Universe de NetApp"^]
 
 +
 Si el sitio no está listo, debe preparar el sitio antes de continuar con la expansión.
 
 . Compruebe que los switches existentes admiten las controladoras adicionales.
 +
-https://["Hardware Universe de NetApp"^]
+https://hwu.netapp.com["Hardware Universe de NetApp"^]
 
 +
 Si el clúster no tiene switch o si los switches existentes no admiten los nodos adicionales, deberá obtener switches de clúster, que se podrán instalar más adelante en el proceso de ampliación.

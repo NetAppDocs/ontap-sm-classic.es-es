@@ -51,4 +51,4 @@ El espacio IP definido por el sistema «predeterminado» y «Cluster» no se pue
 
 *Información relacionada*
 
-https://["Gestión de redes"]
+https://docs.netapp.com/us-en/ontap/networking/index.html["Gestión de redes"]

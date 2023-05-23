@@ -23,7 +23,7 @@ Debe tener credenciales de administrador en la instancia de vCenter Server que s
 .Pasos
 . Descargue la versión de Virtual Storage Console compatible con la configuración, como se muestra en la herramienta de matriz de interoperabilidad.
 +
-https://["Soporte de NetApp"]
+https://mysupport.netapp.com/site/global/dashboard["Soporte de NetApp"]
 
 . Implemente el dispositivo virtual y configúrelo siguiendo los pasos de la _Deployment and Setup Guide_.
 

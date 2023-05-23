@@ -16,7 +16,7 @@ Para que ONTAP se autentique con StorageGRID como almacén de objetos de un agre
 .Pasos
 . Siga la documentación del sistema StorageGRID para copiar el certificado de CA del sistema StorageGRID mediante la interfaz de gestión de grid.
 +
-https://["Guía del administrador de StorageGRID 11.3"]
+https://docs.netapp.com/sgws-113/topic/com.netapp.doc.sg-admin/home.html["Guía del administrador de StorageGRID 11.3"]
 
 +
 Mientras se añade StorageGRID como nivel de cloud, se muestra un mensaje si el certificado de CA no está instalado.

@@ -39,4 +39,4 @@ Si alguna de las pruebas presenta errores, compruebe que el servicio FC se está
 
 *Información relacionada*
 
-https://["Configuración de alta disponibilidad de ONTAP 9"]
+https://docs.netapp.com/us-en/ontap/high-availability/index.html["Configuración de alta disponibilidad de ONTAP 9"]

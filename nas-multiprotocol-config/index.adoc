@@ -26,8 +26,8 @@ Si la red de datos es fija, el uso de estos objetos predeterminados garantiza qu
 
 Si desea detalles sobre el rango de funcionalidades de protocolos SMB y NFS de ONTAP, consulte la siguiente documentación:
 
-* https://["Gestión de NFS"^]
-* https://["Gestión de SMB"^]
+* https://docs.netapp.com/us-en/ontap/nfs-admin/index.html["Gestión de NFS"^]
+* https://docs.netapp.com/us-en/ontap/smb-admin/index.html["Gestión de SMB"^]
 
 
 

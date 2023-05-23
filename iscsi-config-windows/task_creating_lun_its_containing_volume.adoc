@@ -53,4 +53,4 @@ Debe asegurarse de que haya espacio suficiente en el volumen. Si no hay espacio 
 
 *Información relacionada*
 
-https://["Administración del sistema"]
+https://docs.netapp.com/us-en/ontap/system-admin/index.html["Administración del sistema"]

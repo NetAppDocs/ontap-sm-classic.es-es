@@ -57,4 +57,4 @@ Si se produce un error en la creación de LIF, puede crear las LIF e iniciar el 
 
 *Información relacionada*
 
-https://["Centro de documentación de ONTAP 9"]
+https://docs.netapp.com/ontap-9/index.jsp["Centro de documentación de ONTAP 9"]

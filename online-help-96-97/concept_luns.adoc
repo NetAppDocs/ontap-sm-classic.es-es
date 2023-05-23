@@ -22,4 +22,4 @@ La pestaña LUN se muestra solo si se han habilitado las licencias FC/FCoE e iSC
 ====
 *Información relacionada*
 
-https://["Administración de SAN"^]
+https://docs.netapp.com/us-en/ontap/san-admin/index.html["Administración de SAN"^]

@@ -225,10 +225,10 @@ Muestra información detallada sobre el qtree seleccionado, como la ruta de mont
 
 *Información relacionada*
 
-https://["Conceptos de ONTAP"^]
+https://docs.netapp.com/us-en/ontap/concepts/index.html["Conceptos de ONTAP"^]
 
-https://["Gestión de almacenamiento lógico"^]
+https://docs.netapp.com/us-en/ontap/volumes/index.html["Gestión de almacenamiento lógico"^]
 
-https://["Gestión de NFS"^]
+https://docs.netapp.com/us-en/ontap/nfs-admin/index.html["Gestión de NFS"^]
 
-https://["Gestión de SMB/CIFS"^]
+https://docs.netapp.com/us-en/ontap/smb-admin/index.html["Gestión de SMB/CIFS"^]

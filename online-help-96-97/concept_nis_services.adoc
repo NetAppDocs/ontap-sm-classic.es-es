@@ -72,4 +72,4 @@ Actualiza la información de la ventana.
 
 *Información relacionada*
 
-https://["Configuración de NFS"^]
+https://docs.netapp.com/us-en/ontap/nfs-config/index.html["Configuración de NFS"^]

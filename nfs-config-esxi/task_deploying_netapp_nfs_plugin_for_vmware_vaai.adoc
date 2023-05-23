@@ -19,7 +19,7 @@ Para proporcionar un acceso coherente a las máquinas virtuales que residen en e
 .Pasos
 . Descargue el plugin de NFS para VMware VAAI.
 +
-https://["Soporte de NetApp"]
+https://mysupport.netapp.com/site/global/dashboard["Soporte de NetApp"]
 
 +
 Debe descargar el paquete en línea (`NetAppNasPlugIn.vib`) del complemento más reciente

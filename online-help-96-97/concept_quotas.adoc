@@ -345,4 +345,4 @@ El área situada debajo de la lista de cuotas muestra detalles de cuotas, como e
 
 *Información relacionada*
 
-https://["Gestión de almacenamiento lógico"^]
+https://docs.netapp.com/us-en/ontap/volumes/index.html["Gestión de almacenamiento lógico"^]

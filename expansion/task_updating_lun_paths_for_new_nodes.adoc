@@ -65,6 +65,6 @@ La configuración de la división en zonas varía en función del conmutador que
 
 *Información relacionada*
 
-https://["Configuración de SAN"^]
+https://docs.netapp.com/us-en/ontap/san-config/index.html["Configuración de SAN"^]
 
-https://["Administración de SAN"^]
+https://docs.netapp.com/us-en/ontap/san-admin/index.html["Administración de SAN"^]

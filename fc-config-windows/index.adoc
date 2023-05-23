@@ -42,5 +42,5 @@ Este procedimiento no cubre situaciones en las que:
 | La interfaz de línea de comandos (CLI) de ONTAP | link:https://docs.netapp.com/us-en/ontap/san-admin/lun-setup-workflow-concept.html["Flujo de trabajo de configuración de LUN con la CLI"^] 
 |===
 .Recursos adicionales
-* https://["Documentación de NetApp: Utilidades de host"^]
+* https://docs.netapp.com/us-en/ontap-sanhost/index.html["Documentación de NetApp: Utilidades de host"^]
 

@@ -45,4 +45,4 @@ Esta opción no es compatible en sistemas donde está habilitada la autenticaci�
 
 *Información relacionada*
 
-https://["Centro de documentación de ONTAP 9"]
+https://docs.netapp.com/ontap-9/index.jsp["Centro de documentación de ONTAP 9"]
