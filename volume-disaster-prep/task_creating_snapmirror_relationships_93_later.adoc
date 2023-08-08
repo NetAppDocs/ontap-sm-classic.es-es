@@ -32,7 +32,7 @@ Debe realizar esta tarea desde el clúster *fuente*.
 +
 Solo se enumeran las SVM con una relación entre iguales y las SVM permitidas en las SVM de destino.
 
-.. Haga clic en image:../media/advanced_options_icon_disaster.gif[""].
+.. Haga clic en image:../media/advanced_options_icon_disaster.gif["Icono de opciones avanzadas"].
 .. En el cuadro de diálogo *Opciones avanzadas*, compruebe que `MirrorAllSnapshots` se establece como política de protección.
 +
 `DPDefault` y.. `MirrorLatest` Son las otras políticas de protección predeterminadas que están disponibles para las relaciones de SnapMirror.
@@ -47,7 +47,7 @@ De forma predeterminada, todas las relaciones de protección de datos se inicial
 
 .. Haga clic en *aplicar* para guardar los cambios.
 +
-image::../media/snapmirror_advanced_options_93.gif[opciones avanzadas de snapmirror 93]
+image::../media/snapmirror_advanced_options_93.gif[Ventana Opciones avanzadas]
 
 
 
@@ -59,7 +59,7 @@ image::../media/snapmirror_advanced_options_93.gif[opciones avanzadas de snapmir
 
 
 +
-image::../media/snapmirror_9_3.gif[snapmirror 9 3]
+image::../media/snapmirror_9_3.gif[Captura de pantalla del estado de SnapMirror]
 
 
 

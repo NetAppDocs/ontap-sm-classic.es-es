@@ -62,7 +62,7 @@ Sin conexión entre iguales
 
 
 +
-image::../media/destination_volume_settings.gif[configuración del volumen de destino]
+image::../media/destination_volume_settings.gif[Configuración del volumen de destino]
 
 . En la sección *Detalles de configuración*, seleccione *MirrorAllSnapshots* como política de duplicación.
 +
@@ -74,7 +74,7 @@ image::../media/destination_volume_settings.gif[configuración del volumen de de
 La inicialización de la relación de SnapMirror garantiza que el volumen de destino tenga una línea de base para comenzar a proteger el volumen de origen.
 
 +
-image::../media/create_snapmirror_relationship_window.gif[ventana create snapmirror relationship]
+image::../media/create_snapmirror_relationship_window.gif[Ventana Create SnapMirror]
 
 +
 Para inicializar la relación, inicie una transferencia inicial de datos del volumen de origen al volumen de destino.
@@ -83,14 +83,14 @@ Para inicializar la relación, inicie una transferencia inicial de datos del vol
 La operación de inicialización puede requerir cierto tiempo. La sección Estado muestra el estado de cada trabajo.
 
 +
-image::../media/snapmirror_create_3_successful.gif[snapmirror cree 3 correctamente]
+image::../media/snapmirror_create_3_successful.gif[SnapMirror se ha creado correctamente]
 
 . Compruebe el estado de la relación de SnapMirror:
 +
 .. Seleccione el volumen para el que ha creado la relación de SnapMirror en la lista *Volumes* y, a continuación, haga clic en *Data Protection*.
 .. En la ficha *Protección de datos*, compruebe que la relación de SnapMirror que ha creado aparece en la lista y que el estado de la relación es `Snapmirrored`.
 +
-image::../media/snapmirror_create_4_verify.gif[snapmirror cree 4 verificar]
+image::../media/snapmirror_create_4_verify.gif[Verificar que se ha creado la relación]
 
 
 

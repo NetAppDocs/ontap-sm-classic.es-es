@@ -5902,7 +5902,6 @@
   <block id="3dae94afcc8d727ebad4348533cb5278" category="list-text">Haga clic en *Aceptar* para guardar los cambios e iniciar la programación de la copia snapshot.</block>
   <block id="d48c8b246d92a7c78407fc86df071671" category="summary">System Manager es una interfaz gráfica de gestión que le permite gestionar sistemas de almacenamiento y objetos de almacenamiento (como discos, volúmenes y agregados) y realizar tareas de gestión comunes relacionadas con los sistemas de almacenamiento desde un navegador web. Como administrador de clúster, puede usar System Manager para administrar todo el clúster y sus recursos.</block>
   <block id="3ce055103da31ce1df71764f20016d59" category="doc">Administración de clústeres mediante OnCommand® System Manager</block>
-  <block id="0c8ff84025de62a7a5aeea1fe6d60ebf" category="paragraph">System Manager ya no está disponible como archivo ejecutable y ahora se incluye con el software ONTAP como servicio web, habilitado de forma predeterminada y accesible mediante un explorador.</block>
   <block id="08528f0f39e6782683d545afe6b1f198" category="paragraph">El nombre de System Manager cambió de las versiones anteriores. Las versiones 9.5 y anteriores se denominaron System Manager de OnCommand. Las versiones 9.6 y posteriores se denominan Administrador del sistema ONTAP.</block>
   <block id="9270ee495bc464b61000cccd332db6a6" category="paragraph">System Manager le permite realizar muchas tareas comunes como las siguientes:</block>
   <block id="160e6c815686e81a07d0da8d6912bd7d" category="list-text">Cree un clúster, configure una red y configure detalles de soporte para el clúster.</block>
@@ -7718,20 +7717,16 @@
   <block id="4197254eb42abadf4e07041f97c8369f" category="list-text">Seleccione la opción *Nuevo volumen*.</block>
   <block id="bf3c24cccf670b34d6776b8942e7a929" category="list-text">Utilice el nombre de volumen predeterminado o especifique un nuevo nombre de volumen.</block>
   <block id="afe6c8ce0f37963464b2701045bf73a6" category="list-text">Seleccione el agregado de destino.</block>
-  <block id="25889688d2dab599f422759da9889d11" category="image-alt">configuración del volumen de destino</block>
   <block id="9f010bb70a3cf9f282ab15c52a375d90" category="list-text">En la sección *Detalles de configuración*, seleccione *MirrorAllSnapshots* como política de duplicación.</block>
   <block id="daf602eff6257ccc1585152cfa264dff" category="paragraph"><block ref="7e09f5121e9c61e839183558ddb0f17d" prefix="" category="inline-code"></block> y..<block ref="e162cfb3e9ccdaa06cb8c6b686825bee" prefix=" " category="inline-code"></block> Son las otras políticas de mirroring predeterminadas que están disponibles para las relaciones de SnapMirror.</block>
   <block id="7a60aecb8c3538e9a671e6bb26a79282" category="list-text">Seleccione una programación de protección de la lista de programaciones.</block>
   <block id="962acae637b5a6d13230ba6c3c1db5e2" category="list-text">Asegúrese de que la casilla de verificación *inicializar relación* esté activada y, a continuación, haga clic en *Crear*.</block>
   <block id="9006c9f92be4bea3381f69a4a4f9506b" category="paragraph">La inicialización de la relación de SnapMirror garantiza que el volumen de destino tenga una línea de base para comenzar a proteger el volumen de origen.</block>
-  <block id="3dd7b013b73a1c6f7e075f0af837ac53" category="image-alt">ventana create snapmirror relationship</block>
   <block id="6b30a92bd990fd6bdf7ef4a3b009417a" category="paragraph">Para inicializar la relación, inicie una transferencia inicial de datos del volumen de origen al volumen de destino.</block>
   <block id="71f4dfe0a538ccc961465fbef08d3f18" category="paragraph">La operación de inicialización puede requerir cierto tiempo. La sección Estado muestra el estado de cada trabajo.</block>
-  <block id="ca5b32513c7bc82739ecbb42c0816f5a" category="image-alt">snapmirror cree 3 correctamente</block>
   <block id="1e09209118660dffb580a75afff21cd6" category="list-text">Compruebe el estado de la relación de SnapMirror:</block>
   <block id="72ec6eb58743e16b28503a78409f276c" category="list-text">Seleccione el volumen para el que ha creado la relación de SnapMirror en la lista *Volumes* y, a continuación, haga clic en *Data Protection*.</block>
   <block id="ed8df297d64d8ea7830711d96a0f8774" category="list-text">En la ficha *Protección de datos*, compruebe que la relación de SnapMirror que ha creado aparece en la lista y que el estado de la relación es<block ref="d34e79870b17da17e894ddc837954dcc" prefix=" " category="inline-code"></block>.</block>
-  <block id="5e8ac563a17019f0db410450d785301b" category="image-alt">snapmirror cree 4 verificar</block>
   <block id="028fafb74e3b83afc82a43a425f93cb9" category="paragraph">Debe anotar la configuración del volumen de origen, como thin provisioning, deduplicación, compresión y crecimiento automático. Puede utilizar esta información para comprobar la configuración del volumen de destino al romper la relación de SnapMirror.</block>
   <block id="808373648c6575e38ce0160c14bf829d" category="doc">Crear la relación de SnapMirror (a partir de ONTAP 9.3)</block>
   <block id="2c9838f3a2bfef58875104013a2df101" category="list-text">Seleccione el volumen para el que desea crear una relación de réplica y, a continuación, haga clic en *acciones* &gt; *proteger*.</block>
@@ -7739,7 +7734,6 @@
   <block id="b1d6c3bc5dbf7b37cbdbe937bcacaae1" category="list-text">Seleccione *Simetría* como el tipo de relación.</block>
   <block id="db9f6468d4481688fa9033abc1963271" category="list-text">Seleccione el clúster de destino, la SVM de destino y el sufijo para el nombre del volumen de destino.</block>
   <block id="00eb0c752078cdbcec9dd22b17ea3c76" category="paragraph">Solo se enumeran las SVM con una relación entre iguales y las SVM permitidas en las SVM de destino.</block>
-  <block id="1ec1faf69d8ee6e200c521f39fba978d" category="list-text">Haga clic en <block ref="a1671da25382ecdf2e7c60b53cc3fc3d" category="inline-image-macro-rx" type="image"></block>.</block>
   <block id="b690261847676d1036c0d37c3ab9e7cd" category="list-text">En el cuadro de diálogo *Opciones avanzadas*, compruebe que<block ref="549e9a8369377ab9bda71541111ca2f9" prefix=" " category="inline-code"></block> se establece como política de protección.</block>
   <block id="cc4e6ab08b9e6aa23e33393c70c86c2c" category="paragraph"><block ref="7e09f5121e9c61e839183558ddb0f17d" prefix="" category="inline-code"></block> y..<block ref="e162cfb3e9ccdaa06cb8c6b686825bee" prefix=" " category="inline-code"></block> Son las otras políticas de protección predeterminadas que están disponibles para las relaciones de SnapMirror.</block>
   <block id="63aac8665b835b82daf050f515b927ed" category="list-text">Seleccione un programa de protección.</block>
@@ -7747,12 +7741,10 @@
   <block id="0eaad8f614e7a32adf496fe716320ed4" category="list-text">Compruebe que *Sí* está seleccionado para inicializar la relación de SnapVault.</block>
   <block id="0531876d83d0e6dd65845a4e72053423" category="paragraph">De forma predeterminada, todas las relaciones de protección de datos se inicializan. La inicialización de la relación de SnapMirror garantiza que el volumen de destino tenga una línea de base para comenzar a proteger el volumen de origen.</block>
   <block id="38326335c467e4d64391788cf6a6f1c1" category="list-text">Haga clic en *aplicar* para guardar los cambios.</block>
-  <block id="b0d23a57325c3084c24baecf58667326" category="image-alt">opciones avanzadas de snapmirror 93</block>
   <block id="acb8bdf1358d7537887f6dc69f5224e6" category="list-text">Haga clic en *Guardar* para crear la relación de SnapMirror.</block>
   <block id="ec658862dd1e10953fce5b7f177f02f1" category="list-text">Compruebe que el estado de la relación de SnapMirror esté en la<block ref="d34e79870b17da17e894ddc837954dcc" prefix=" " category="inline-code"></block> estado.</block>
   <block id="376cacbb467173386e24f40a767d478b" category="list-text">Desplácese hasta la ventana *Volumes* y, a continuación, seleccione el volumen para el que creó la relación de SnapMirror.</block>
   <block id="e01451bc5d1145df607e72e46d03d5d2" category="list-text">Haga doble clic en el volumen para ver los detalles del volumen y, a continuación, haga clic en *PROTECTION* para ver el estado de la protección de datos del volumen.</block>
-  <block id="67dfc6258a4d7b0eef457b3eeb43e734" category="image-alt">snapmirror 9 3</block>
   <block id="74f1afbef663f32fc8d025982a526401" category="summary">La preparación de los volúmenes para la recuperación ante desastres implica verificar la relación entre iguales de clústeres, la creación de una relación de SnapMirror entre los volúmenes que residen en clústeres con una relación entre iguales, la configuración de la SVM de destino para el acceso a los datos y la supervisión periódica de la relación de SnapMirror.</block>
   <block id="97214eb14a082986b89d0496654171d1" category="doc">Flujo de trabajo de preparación para la recuperación ante desastres de volúmenes</block>
   <block id="6f8b00a444288de00f6c62901e237c7b" category="image-alt">Esta ilustración incluye un diagrama de flujo del flujo de trabajo de preparación para la recuperación ante desastres del volumen. Los pasos del flujo de trabajo coinciden con los temas.</block>
@@ -9260,4 +9252,13 @@
   <block id="793d21bf18b025e1a67b437de47189f5" category="inline-link-macro">Información general sobre Manage licences</block>
   <block id="0f130bf77768be1af34e32b76ed78492" category="paragraph">Para obtener más información acerca de la administración de licencias, consulte <block ref="40de9a66c3e4481acf1e199beb3ce8ce" category="inline-link-macro-rx"></block>.</block>
   <block id="604cb5a84c00d7e349ae07b5f7fe770d" category="cell"><block ref="604cb5a84c00d7e349ae07b5f7fe770d" category="inline-link-rx"></block></block>
+  <block id="5c210c9c66a924b033442506eda7fd06" category="paragraph">System Manager es una interfaz de gestión gráfica basada en HTML5 que permite gestionar sistemas de almacenamiento y objetos de almacenamiento (como discos, volúmenes y agregados) y realizar tareas de gestión comunes relacionadas con los sistemas de almacenamiento desde un navegador web. System Manager se incluye con el software ONTAP como servicio web, habilitado de forma predeterminada, accesible mediante un navegador. Como administrador de clúster, puede usar System Manager para administrar todo el clúster y sus recursos.</block>
+  <block id="f45292349272c0e8d698e0559d3516b8" category="image-alt">Configuración del volumen de destino</block>
+  <block id="66329551f2e91e48bc40cabcda0d761b" category="image-alt">Ventana Create SnapMirror</block>
+  <block id="1338eec46c9b0932a879be3427d074eb" category="image-alt">SnapMirror se ha creado correctamente</block>
+  <block id="f7d9fc01c37002a8f4bfc1d0c51eebee" category="image-alt">Verificar que se ha creado la relación</block>
+  <block id="dd69bf72e13ac23bfd95e008374ecb5d" category="inline-image-macro">Icono de opciones avanzadas</block>
+  <block id="ef801f1f815e00496ec892cdfa53d06d" category="list-text">Haga clic en <block ref="215361fd1fc3c1e3c1287fe809a1790a" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="52d4c2f2276b49422642781ce12ded0c" category="image-alt">Ventana Opciones avanzadas</block>
+  <block id="f730116d3cb429cf0e30f40c1db51df9" category="image-alt">Captura de pantalla del estado de SnapMirror</block>
 </blocks>
