@@ -35,6 +35,11 @@ Debe usar la interfaz de línea de comandos para reasignar discos para las confi
 
 
 
+[NOTE]
+====
+En versiones posteriores de ONTAP, se utiliza la interfaz de línea de comandos de ONTAP para quitar la propiedad del disco y asignar un nuevo propietario.
+
+====
 .Pasos
 . Haga clic en *almacenamiento* > *agregados y discos* > *discos*.
 . En la ventana *discos*, seleccione la pestaña *Inventario*.
@@ -42,4 +47,10 @@ Debe usar la interfaz de línea de comandos para reasignar discos para las confi
 . En el cuadro de diálogo *Advertencia*, haga clic en *continuar*.
 . En el cuadro de diálogo *asignar discos*, seleccione el nodo al que desea reasignar los discos.
 . Haga clic en *asignar*.
+
+
+.Información relacionada
+* link:https://docs.netapp.com/us-en/ontap/disks-aggregates/remove-ownership-disk-task.html["Eliminar la propiedad de los discos mediante la interfaz de línea de comandos de ONTAP (ONTAP 9,3 y versiones posteriores)"]
+* link:https://docs.netapp.com/us-en/ontap/disks-aggregates/disk-autoassignment-policy-concept.html["Asignar discos automáticamente mediante la interfaz de línea de comandos de ONTAP (ONTAP 9,3 y versiones posteriores)"]
+* link:https://docs.netapp.com/us-en/ontap/disks-aggregates/manual-assign-disks-ownership-manage-task.html["Asignar discos manualmente mediante la interfaz de línea de comandos de ONTAP (ONTAP 9,3 y posterior)"]
 
