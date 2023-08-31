@@ -33,7 +33,21 @@ Consulte la documentación proporcionada por el IDP que se configuró.
 
 
 .Acerca de esta tarea
-Los PDI que se han validado con System Manager son Shibboleth y Active Directory Federation Services.
+Los siguientes IDP se han validado con System Manager:
+
+* Servicios de federación de Active Directory
+* Cisco DUO (validado con las siguientes versiones de ONTAP:)
++
+** 9.7P21 y versiones posteriores de 9,7
+** 9.8P17 y versiones posteriores de 9,8
+** 9,9.1P13 y versiones posteriores de 9,9
+** 9.10.1P9 y versiones posteriores de 9,10
+** 9.11.1P4 y versiones posteriores de 9,11
+** 9.12.1 y versiones posteriores
+
+
+* Shibboleth
+
 
 [NOTE]
 ====
