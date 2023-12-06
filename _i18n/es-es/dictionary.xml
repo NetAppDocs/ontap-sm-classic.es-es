@@ -451,7 +451,6 @@
   <block id="503e6a1d24532cf16b90068dcf9d0814" category="list-text">En la ventana *Cambiar tamaño del volumen FlexCache*, especifique el tamaño al que desea cambiar el tamaño del volumen FlexCache.</block>
   <block id="2c228870bc26117c2bcc38d47fed7cbb" category="paragraph">De forma predeterminada, se utilizan los agregados existentes para cambiar el tamaño del volumen de FlexCache. A partir de System Manager 9.6, se muestra el tamaño máximo permitido para el volumen junto al campo de tamaño.</block>
   <block id="ee06c3a75d2f90d528d0bdad6ee8b794" category="inline-link-macro">Especificar las opciones avanzadas para FlexCache Volumes</block>
-  <block id="bf1a8ac5c931866758030b4588ed85b1" category="paragraph">Si desea expandir el volumen de FlexCache añadiendo nuevos recursos, haga clic en <block ref="03cbf9b997ad0db8d0ffb988950200e2" category="inline-image-macro-rx" type="image"></block> (opciones avanzadas). Consulte <block ref="ff23e8b352173b9385a50749f03a49b1" category="inline-link-macro-rx"></block>.</block>
   <block id="689dc6ae2f8d54723af8baa6aff39f7d" category="list-text">Haga clic en *Guardar* para cambiar el tamaño del volumen FlexCache.</block>
   <block id="f7bcc518f4ec81859dbc238762046e1d" category="summary">Puede usar la ventana Storage Virtual Machine (SVM) para crear SVM totalmente configuradas. Las SVM sirven datos tras la creación de objetos de almacenamiento en dichas SVM.</block>
   <block id="c61b8028f650abffd119f84f09d17f74" category="doc">Cree una SVM con System Manager: ONTAP 9.7 y versiones anteriores</block>
@@ -9277,4 +9276,5 @@
   <block id="f807dcc2ee9aff63931a364b0bfb045d" category="list-text">9.11.1P4 y versiones posteriores de 9,11</block>
   <block id="04faa4f6e99109900566d6589f5adfd3" category="list-text">9.12.1 y versiones posteriores</block>
   <block id="3679bf7b8140ea8f4291be1d7fc023bd" category="list-text">Shibboleth</block>
+  <block id="0141b877fcf49f33b47400dd7edb78c1" category="paragraph">Si desea expandir el volumen de FlexCache añadiendo nuevos recursos, haga clic en <block ref="03cbf9b997ad0db8d0ffb988950200e2" category="inline-image-macro-rx" type="image"></block> (opciones avanzadas). Consulte <block ref="4f3fc931d92f22f55a489e2373f71d6c" category="inline-link-macro-rx"></block>.</block>
 </blocks>
